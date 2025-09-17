@@ -14,7 +14,7 @@ The script scrolls through the Airbnb listings, extracts all available image URL
 * Downloads images in high resolution
 * Converts images to **JPG** (or WebP if conversion fails)
 * Organizes saved images inside `airbnb_images/` folder
-
+* Easily scalable — replace Airbnb city/page links to collect 1500+ images in one run
 ---
 
 ## 🛠 Requirements
